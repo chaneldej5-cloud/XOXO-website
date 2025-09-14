@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+xoxoproductions.net	TRUE	/	FALSE	1999999999	nfd-enable-cf-opt	63a6825d27cab0f204d3b602
+xoxoproductions.net	TRUE	/	FALSE	1999999999	jetpack_sso_nonce	ntmjfcaya5ercu3h2lmr
+xoxoproductions.net	TRUE	/	FALSE	1999999999	tk_ai	jetpack%3ARvizZ8aJHwctw%2B0yv4f24t5I
+xoxoproductions.net	TRUE	/	FALSE	1999999999	jetpack_sso_original_request	http%3A%2F%2Fxoxoproductions.net%2Fwp-login.php%3Fjetpack-sso-show-default-form%3D0
+xoxoproductions.net	TRUE	/	FALSE	1999999999	wordpress_test_cookie	WP%20Cookie%20check
+
